@@ -1,2 +1,2 @@
-# TG-HOSTING-BY-CHINKOR
+# HOSTING-BY-CHINKOR
 Telegram hosting
